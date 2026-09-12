@@ -77,15 +77,12 @@ Score: 82%
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/amna-bi/amna-bi/stats-output/stats.svg" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/amna-bi/amna-bi/languages-output/languages.svg" height="150" alt="languages graph" />
-</div>
+<div align="center"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=amna-bi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" /> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amna-bi&layout=compact&theme=tokyonight&hide_border=true" /> </div> <br> <div align="center">
 
 <br>
 
 <div align="center">
 
-### ⭐ Always open to collaborating on interesting projects — feel free to reach out!
+### ⭐ Curious mind, structured solutions ahead!
 
 </div>

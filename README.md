@@ -15,7 +15,7 @@
 
 ## 🧭 About Me
 
-- 🎓 BSCS student at the Institute of Space Technology, Rawalpindi, Pakistan — CGPA 3.74
+- 🎓 BSCS student at the Institute of Space Technology, Rawalpindi, Pakistan | CGPA 3.65
 - 📊 Interested in system analysis and scalable architecture design
 - 🧠 Bridging the gap between software development, database design, and business requirements
 - 🛠️ Currently mastering object-oriented design, SDLC methodologies, and data modeling
@@ -57,7 +57,7 @@
 
 🎓 **BS Computer Science** | Institute of Space Technology (IST/KICSIT), Rawalpindi, Pakistan
 <br>
-CGPA: 3.74/4.0
+CGPA: 3.65/4.0
 <br>
 📚 **HSSC in Computer Science** | KRL Model College for Girls, Rawalpindi, Pakistan
 <br>

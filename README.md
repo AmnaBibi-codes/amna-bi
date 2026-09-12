@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Amna+Bibi;Computer+Science+Student+%7C+Aspiring+Systems+Analyst;Turning+Ideas+into+Working+Software;Bridging+Dev%2C+Data+%26+Business+Requirements" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=950&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+Amna+Bibi;Computer+Science+Student+%7C+Systems+Analyst;Turning+Ideas+into+Working+Software;Bridging+Dev%2C+Data+%26+Business+Requirements" alt="Typing SVG" />
 
 </div>
 
@@ -15,7 +15,7 @@
 
 ## 🧭 About Me
 
-- 🎓 BSCS student at the Institute of Space Technology (IST/KICSIT), Rawalpindi, Pakistan — CGPA 3.74
+- 🎓 BSCS student at the Institute of Space Technology, Rawalpindi, Pakistan — CGPA 3.74
 - 📊 Interested in system analysis and scalable architecture design
 - 🧠 Bridging the gap between software development, database design, and business requirements
 - 🛠️ Currently mastering object-oriented design, SDLC methodologies, and data modeling

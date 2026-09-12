@@ -15,11 +15,11 @@
 
 ## 🧭 About Me
 
-- 🎓 BSCS student at the Institute of Space Technology, Rawalpindi, Pakistan | CGPA 3.65
+-🎓 BSCS student at the Institute of Space Technology, Rawalpindi, Pakistan | CGPA 3.65
 - 📊 Interested in system analysis and scalable architecture design
-- 🧠 Bridging the gap between software development, database design, and business requirements
-- 🛠️ Currently mastering object-oriented design, SDLC methodologies, and data modeling
-- ✍️ Also create AI tools & productivity content on Instagram, Medium, and YouTube
+- 🧠 Studying the connection between software systems and the business needs they serve
+- 🛠️ Studying OS, App Dev, Web Dev
+- ✍️ Participating in an Alibaba Cloud AI Hackathon as Ambassador and Participant
 
 <br>
 

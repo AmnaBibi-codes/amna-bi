@@ -57,6 +57,8 @@
 
 🎓 **BS Computer Science** — Institute of Space Technology (IST/KICSIT), Rawalpindi, Pakistan
 &nbsp;&nbsp;&nbsp;CGPA: 3.74/4.0
+📚 **HSSC in Computer Science** — KRL Model College for Girls, Rawalpindi, Pakistan
+&nbsp;&nbsp;&nbsp;Score: 82%
 
 <br>
 

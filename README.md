@@ -15,7 +15,7 @@
 
 ## 🧭 About Me
 
--🎓 BSCS student at the Institute of Space Technology, Rawalpindi, Pakistan | CGPA 3.65
+- 🎓 BSCS student at the Institute of Space Technology, Rawalpindi, Pakistan | CGPA 3.65
 - 📊 Interested in system analysis and scalable architecture design
 - 🧠 Studying the connection between software systems and the business needs they serve
 - 🛠️ Studying OS, App Dev, Web Dev

@@ -67,11 +67,11 @@ Score: 82%
 
 ## 🎖️ Honours & Achievements
 
-- 📘 Completed Advanced SQL Certification — HackerRank
-- 📊 Completed Data Analytics Job Simulation — Deloitte / Forage (Tableau)
-- ☁️ Completed Google Cloud AI Certificates
-- 🎓 Accepted into UMJ's S1 Informatics Engineering program
-- 🏅 Recipient of the Nusa Putra Berlian Scholarship
+- 📘 Completed Advanced SQL Certification | HackerRank
+- 📊 Completed Data Analytics Job Simulation | Deloitte / Forage (Tableau)
+- 📈 Completed DigiSkills Data Analytics & Business Intelligence training
+- 📚 Taking Harvard's CS50 (Intro to Computer Science)
+- 🏫 Completed courses in Introduction to Generative AI and Data Analytics with Generative AI
 
 <br>
 

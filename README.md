@@ -1,45 +1,86 @@
-<h4 align="left">Hi 👋! My name is Amna Bibi. Welcome to my coding space! 🚀<br><br>🎓 Computer Science Student | Turning ideas into working software<br>📊 Interested in system analysis and scalable architecture design<br>🧠 Bridging the gap between software development, database design, and business requirements<br>🛠️ Currently mastering object-oriented design, SDLC methodologies, and data modeling</h4>
-
-###
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/amna-bi/amna-bi/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/amna-bi/amna-bi/languages-output/languages.svg" height="150" alt="languages graph"  />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Amna+Bibi;Computer+Science+Student+%7C+Aspiring+Systems+Analyst;Turning+Ideas+into+Working+Software;Bridging+Dev%2C+Data+%26+Business+Requirements" alt="Typing SVG" />
+
 </div>
 
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amna-bibi-analyst)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amna.bibi.career@gmail.com)
+
 </div>
 
-###
+<br>
+
+## 🧭 About Me
+
+- 🎓 BSCS student at the Institute of Space Technology (IST/KICSIT), Rawalpindi, Pakistan — CGPA 3.74
+- 📊 Interested in system analysis and scalable architecture design
+- 🧠 Bridging the gap between software development, database design, and business requirements
+- 🛠️ Currently mastering object-oriented design, SDLC methodologies, and data modeling
+- ✍️ Also create AI tools & productivity content on Instagram, Medium, and YouTube
+
+<br>
+
+## 🛠 Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Backend & Data**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+<br>
+
+## 🏫 Education
+
+🎓 **BS Computer Science** — Institute of Space Technology (IST/KICSIT), Rawalpindi, Pakistan
+&nbsp;&nbsp;&nbsp;CGPA: 3.74/4.0
+
+<br>
+
+## 🎖️ Honours & Achievements
+
+- 📘 Completed Advanced SQL Certification — HackerRank
+- 📊 Completed Data Analytics Job Simulation — Deloitte / Forage (Tableau)
+- ☁️ Completed Google Cloud AI Certificates
+- 🎓 Accepted into UMJ's S1 Informatics Engineering program
+- 🏅 Recipient of the Nusa Putra Berlian Scholarship
+
+<br>
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="mailto: amna.bibi.career@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/amna-bibi-analyst" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  <img src="https://raw.githubusercontent.com/amna-bi/amna-bi/stats-output/stats.svg" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/amna-bi/amna-bi/languages-output/languages.svg" height="150" alt="languages graph" />
 </div>
 
-###
+<br>
+
+<div align="center">
+
+### ⭐ Always open to collaborating on interesting projects — feel free to reach out!
+
+</div>

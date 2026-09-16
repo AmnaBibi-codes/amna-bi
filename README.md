@@ -73,12 +73,6 @@ Score: 99%
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center"> <img src="https://raw.githubusercontent.com/amna-bi/amna-bi/languages-output/languages.svg" height="150" alt="languages graph" /> </div> <br> <div align="center">
-
-<br>
-
 <div align="center">
 
 ### ⭐ Curious mind, structured solutions ahead!

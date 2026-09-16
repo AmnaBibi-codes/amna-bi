@@ -58,7 +58,6 @@
 📚 **HSSC in Computer Science** | KRL Model College for Girls, Rawalpindi, Pakistan
 <br>
 Score: 82%
-
 <br>
 🎓 **SSC in Computer Science** | Govt Girls High School, Rawalpindi, Pakistan
 <br>

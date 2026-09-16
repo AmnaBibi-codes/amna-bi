@@ -15,7 +15,7 @@
 
 ## 🧭 About Me
 
-- 🎓 BSCS student at the Institute of Space Technology, Rawalpindi, Pakistan | CGPA 3.65
+- 🎓 CS student at the KRL Model College, Rawalpindi, Pakistan | Score 82%
 - 📊 Interested in system analysis and scalable architecture design
 - 🧠 Studying the connection between software systems and the business needs they serve
 - 🛠️ Studying OS, App Dev, Web Dev
@@ -55,15 +55,14 @@
 
 ## 🏫 Education
 
-🎓 **BS Computer Science** | Institute of Space Technology (IST/KICSIT), Rawalpindi, Pakistan
-<br>
-CGPA: 3.65/4.0
-<br>
 📚 **HSSC in Computer Science** | KRL Model College for Girls, Rawalpindi, Pakistan
 <br>
 Score: 82%
 
 <br>
+🎓 **SSC in Computer Science** | Govt Girls High School, Rawalpindi, Pakistan
+<br>
+Score: 99%
 
 ## 🎖️ Honours & Achievements
 
@@ -77,7 +76,7 @@ Score: 82%
 
 ## 📊 GitHub Stats
 
-<div align="center"> <img src="https://raw.githubusercontent.com/amna-bi/amna-bi/stats-output/stats.svg" height="150" alt="stats graph" /> <img src="https://raw.githubusercontent.com/amna-bi/amna-bi/languages-output/languages.svg" height="150" alt="languages graph" /> </div> <br> <div align="center">
+<div align="center"> <img src="https://raw.githubusercontent.com/amna-bi/amna-bi/languages-output/languages.svg" height="150" alt="languages graph" /> </div> <br> <div align="center">
 
 <br>
 

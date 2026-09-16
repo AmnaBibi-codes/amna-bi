@@ -15,7 +15,7 @@
 
 ## 🧭 About Me
 
-- 🎓 CS student at the KRL Model College, Rawalpindi, Pakistan | Score 82%
+- 🎓 Completed Higher Secondary Studies from KRL Model College, Rawalpindi, Pakistan 
 - 📊 Interested in system analysis and scalable architecture design
 - 🧠 Studying the connection between software systems and the business needs they serve
 - 🛠️ Studying OS, App Dev, Web Dev
